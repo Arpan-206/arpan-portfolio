@@ -33,5 +33,4 @@ As high schoolers, we might think open source is for tech geniuses. Not true! St
 So, there you have it. Open source isn't just a topic for tech-savvy adults; it's a concept that holds immense value for us too. It's about learning, creating, and being part of a global movement that's shaping the future. Don't shy away from it; embrace it, and who knows, you might just discover your superpower in the world of open source!
 
 Yours most earnestly,
-
-Arpan Pandey
+<img class="w-1/4" src="/sign.png">

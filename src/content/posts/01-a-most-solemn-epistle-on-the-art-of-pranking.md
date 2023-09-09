@@ -23,7 +23,6 @@ Therefore, I beseech you all to continue on your noble path of humorless solemni
 In conclusion, I submit to you, dear recipients of this most serious of letters, that the art of pranking is a pursuit best left to the unserious, the impish, and the lighthearted. May your days be forever devoid of laughter, and may your hearts remain untouched by the whimsical joys of tomfoolery.
 
 Yours most earnestly,
-
-Arpan Pandey
+<img class="w-1/4" src="/sign.png">
 
 **P.S.** In case my sarcasm was not entirely evident, I wholeheartedly encourage the occasional, harmless prank to inject a bit of laughter into our lives – just remember to do so with kindness and respect for all involved.

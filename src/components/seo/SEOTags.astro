@@ -7,16 +7,16 @@ type Props = HeadTags;
 
 const { title, description, noindex, og } = Astro.props;
 
-const DEFAULT_TITLE_PAGE = "Astro - Portfolio template";
+const DEFAULT_TITLE_PAGE = "Arpan Pandey's Personal Website";
 const DEFAULT_DESCRIPTION_PAGE =
-  "A minimal portfolio template built with Astro and Tailwindcss.";
+  "Welcome to my digital world! Explore the creativity and innovation that drive me. Dive into my diverse portfolio, innovative projects, and insightful blog. Let's connect, collaborate, and journey together through the ever-evolving landscapes of creativity and technology.";
 const DEFAULT_URL_SITE = SITE_URL;
 
 const openGraph = {
   title: title || og?.title || DEFAULT_TITLE_PAGE,
   type: og?.type || "website",
-  image: og?.image || "/opengraph-image.jpg",
-  alt: og?.alt || "astro portfolio template image",
+  image: og?.image || "/opengraph-image.png",
+  alt: og?.alt || "arpan pandey personal website",
   url: DEFAULT_URL_SITE,
   description: og?.description || DEFAULT_DESCRIPTION_PAGE,
 };
@@ -39,7 +39,7 @@ const openGraph = {
       },
     }}
     twitter={{
-      creator: "@itsstormzz_",
+      creator: "@ArpanHRBT",
     }}
     extend={{
       link: [
@@ -56,7 +56,7 @@ const openGraph = {
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: openGraph.title },
         { name: "twitter:description", content: openGraph.description },
-        { name: "twitter:site", content: "@itsstormzz_" },
+        { name: "twitter:site", content: "@ArpanHRBT" },
       ],
     }}
   />

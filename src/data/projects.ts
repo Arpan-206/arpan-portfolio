@@ -7,20 +7,29 @@ export type Project = {
 
 const projects: Project[] = [
   {
-    title: "Dictionary App",
-    techs: ["ReactJS (NextJS)", "react-query", "zod"],
-    link: "https://github.com/MaeWolff/dictionary-app",
+    title: "Clubs Directory (Hack Club)",
+    techs: ["ReactJS (NextJS)", "FastAPI", "OpenStreetMap"],
+    link: "https://github.com/hackclub/clubsdirectory",
   },
   {
-    title: "Portfolio / Lina BLIDI",
-    techs: ["ReactJS (NextJS)", "TypeScript"],
-    link: "https://www.linablidi.fr/",
+    title: "Coconut",
+    techs: ["ReactJS (NextJS)", "Typer", "AI"],
+    link: "https://github.com/Arpan-206/coconut_cli",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
-    link: "/",
-    isComingSoon: true,
+    title: "Hashpoll",
+    techs: ["Svelte", "AWS Amplify", "FastAPI", "Typer"],
+    link: "https://github.com/Arpan-206/hashpoll-amplify",
+  },
+  {
+    title: "Formee",
+    techs: ["Python", "Typer", "Hasura"],
+    link: "https://github.com/Arpan-206/formee",
+  },
+  {
+    title: "Jams API (Hack Club)",
+    techs: ["FastAPI", "OpenAI", "Airtable"],
+    link: "https://github.com/Arpan-206/jams-api",
   },
 ];
 
